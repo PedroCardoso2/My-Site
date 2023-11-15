@@ -10,7 +10,7 @@ function NavBar() {
             <Image src={CircleImage} className={style.imgCircle} alt="Circle" />
             <h1 className={style.NameTitle}> <h1 className={style.pedro}>Pedro</h1> Cardoso</h1>
 
-
+            
             <div className={style.options}>
                 <h3 className={style.word}>Home</h3>
                 <h3 className={style.word}>Front-end</h3>
